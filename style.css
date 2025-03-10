@@ -34,7 +34,7 @@ body {
   background: rgba(10, 25, 47, 0.9);
   padding: 1rem 5%;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: center;
   z-index: 1000;
 }
